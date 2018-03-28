@@ -2,12 +2,12 @@
   <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 </p>
 
-# React Redux Blog
+# React Redux Weather
 
 React Weather Project for United States cities. Use an API for backend requests.<p>
 This was one project from [Udemy React Course](https://www.udemy.com/react-redux/).<p>
 
-Demo : ---
+Demo : http://react-weather.andremartingo.gq
 
 ## User Interface
 
